@@ -20,6 +20,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NimaWasTaken/NimaWasTaken/output/github-contribution-grid-snake.svg">
 </picture>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="">
     <img src="https://komarev.com/ghpvc/?username=NimaWasTaken&style=for-the-badge">
 </a>
