@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## GitHub Stats
 <table><tr><td valign="top" width="50%">
 
