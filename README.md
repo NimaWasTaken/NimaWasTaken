@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Contributions</h1>
+  <h1>🐍 Contributions 🐍</h1>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NimaWasTaken/NimaWasTaken/output/github-contribution-grid-snake-dark.svg">
@@ -8,7 +8,7 @@
 </picture>
 
 <div align="center">
-  <h1>Github Stats</h1>
+  <h1>📊 Github Stats 📊</h1>
 </div>
 <table><tr><td valign="top" width="50%">
 
