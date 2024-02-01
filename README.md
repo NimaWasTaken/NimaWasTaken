@@ -1,10 +1,10 @@
-## GitHub Stats
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NimaWasTaken&hide_border=true&show_icons=true&rank_icon=github&bg_color=00000000" align="left" style="width: 1000px" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaWasTaken&hide_border=true&layout=compact&bg_color=00000000" align="left" style="width:99%px" />
-
-</td></tr></table>  
+<div> <a href="https://github.com/NimaWasTaken" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/NimaWasTaken">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NimaWasTaken&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NimaWasTaken&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NimaWasTaken&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NimaWasTaken&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimaWasTaken&theme=dark" height="180em" />
+</div>
