@@ -11,6 +11,6 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaWasTaken&hide_border=true&layout=compact&bg_color=00000000" align="left" style="width:99%px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaWasTaken&hide_border=true&layout=compact&bg_color=00000000" align="left" style="width:100%px" />
 
 </td></tr></table>  
